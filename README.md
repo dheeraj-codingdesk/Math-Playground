@@ -42,7 +42,7 @@ A beautiful web application that makes advanced mathematical concepts accessible
 
 ```bash
 # Clone the repository
-git clone [<repository-url>](https://github.com/dheeraj-codingdesk/Math-Playground.git)
+git clone https://github.com/dheeraj-codingdesk/Math-Playground.git
 cd interactive-math-playground
 
 # Install dependencies
