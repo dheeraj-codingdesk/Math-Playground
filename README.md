@@ -1,6 +1,6 @@
 # Interactive Math Playground 🧮
 
-A beautiful web application that makes advanced mathematical concepts accessible through interactive visualizations. Explore calculus, probability distributions, Fourier transforms, and the Central Limit Theorem with stunning, interactive charts and real-time parameter manipulation.
+A beautiful web application that makes advanced mathematical concepts accessible through interactive visualizations. Explore calculus, probability distributions, Fourier transforms, and the Central Limit Theorem with stunning, interactive charts and real-time parameter manipulation. 
 
 ## ✨ Features
 
